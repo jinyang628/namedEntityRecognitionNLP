@@ -1,1 +1,1 @@
-NER NLP
+Named Entity Recognition (Token tagging) 
